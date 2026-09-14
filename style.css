@@ -123,6 +123,12 @@ main {
   justify-self: end;
 }
 
+.app-video {
+  aspect-ratio: 9 / 16;
+  height: auto;
+  border: none;
+}
+
 .app-body h2 { margin: 0 0 0.3rem; }
 
 .app-tag {
