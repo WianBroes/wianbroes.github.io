@@ -18,6 +18,23 @@ body {
   line-height: 1.6;
 }
 
+.lang-toggle {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  z-index: 10;
+  padding: 0.4rem 0.9rem;
+  border-radius: 999px;
+  border: 1px solid #3a4050;
+  background: rgba(22, 25, 34, 0.85);
+  color: var(--text);
+  font-weight: 600;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.lang-toggle:hover { border-color: var(--accent-2); }
+
 .hero {
   position: relative;
   min-height: 60vh;
