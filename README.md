@@ -15,7 +15,7 @@ En ligne pour l'instant sur : https://wianbroes.github.io/
 
 ## Structure
 
-- `index.html` — page unique
-- `style.css` — styles
-- `script.js` — animation de fond (bille + traînée colorée, clin d'œil au mécanisme d'InkOrb/KidOrb)
-- `assets/` — icônes et captures d'écran des deux apps
+- `index.html` : page unique
+- `style.css` : styles
+- `script.js` : animation de fond (bille + traînée colorée, clin d'œil au mécanisme d'InkOrb/KidOrb)
+- `assets/` : icônes et captures d'écran des deux apps
