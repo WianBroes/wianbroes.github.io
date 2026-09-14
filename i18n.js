@@ -2,8 +2,8 @@
   const translations = {
     en: {
       "meta.title": "Wian Broes — Indie developer",
-      "meta.description": "Wian Broes, indie Android developer. InkOrb and KidOrb: simple drawing apps, no ads, no tracking.",
-      "hero.tagline": "Indie Android developer. Simple, honest apps — no ads, no accounts, no tracking.",
+      "meta.description": "Wian Broes, indie developer. InkOrb and KidOrb: simple drawing apps, no ads, no tracking.",
+      "hero.tagline": "Indie developer. Simple, honest apps — no ads, no accounts, no tracking.",
       "hero.cta": "See the apps",
       "inkorb.tag": "Physics-based ball painting: layers, pigment mixing, export.",
       "inkorb.desc": "A ball rolls across the canvas and leaves a trail of paint behind it — precise or chaotic, depending on speed and gesture. Layers, a pigment mixer, several customizable balls, image export. No ads, no accounts, no network connection.",
@@ -17,8 +17,8 @@
     },
     fr: {
       "meta.title": "Wian Broes — Développeur indé",
-      "meta.description": "Wian Broes, développeur Android indépendant. InkOrb et KidOrb : des apps de dessin simples, sans pub, sans tracking.",
-      "hero.tagline": "Développeur Android indépendant. Des apps simples, honnêtes — sans pub, sans compte, sans tracking.",
+      "meta.description": "Wian Broes, développeur indépendant. InkOrb et KidOrb : des apps de dessin simples, sans pub, sans tracking.",
+      "hero.tagline": "Développeur indépendant. Des apps simples, honnêtes — sans pub, sans compte, sans tracking.",
       "hero.cta": "Voir les apps",
       "inkorb.tag": "Peinture par bille physique : calques, mélange de pigments, export.",
       "inkorb.desc": "Une bille roule sur la toile et laisse une traînée de peinture derrière elle — précise ou chaotique, selon la vitesse et le geste. Calques, mélangeur de pigments, plusieurs billes personnalisables, export en image. Aucune pub, aucun compte, aucune connexion réseau.",
